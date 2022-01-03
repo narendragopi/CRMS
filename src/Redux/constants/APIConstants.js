@@ -1,0 +1,14 @@
+export const APIConstants = {
+    CARS: {
+      GET_CARS: 'GET_CARS',
+      ADD_CAR: 'ADD_CAR',
+      REMOVE_CAR: 'REMOVE_CAR',
+      UPDATE_CAR: 'UPDATE_CAR'
+    },
+    CUSTOMERS: {
+      GET_CUSTOMERS: 'GET_CUSTOMERS',
+      ADD_CUSTOMERS: 'ADD_CUSTOMERS',
+      REMOVE_CUSTOMERS: 'REMOVE_CUSTOMERS',
+      UPDATE_CUSTOMERS: 'UPDATE_CUSTOMERS'
+    }
+}
